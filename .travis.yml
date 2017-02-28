@@ -1,6 +1,5 @@
 language: java
 notifications:
-    webhooks: https://oapi.dingtalk.com/robot/send?access_token=c13f7386cda71619eb56ed18a9da259df9e0e97e4cc960b1cc2fd921cfdb7f1c
     webhooks: https://oapi.dingtalk.com/robot/send?access_token=fc08f85b120cf49bbaf6d3e603ee86b2c85f5caa0758ce7248ac896e5e82e23f
 jdk:
     - oraclejdk8
